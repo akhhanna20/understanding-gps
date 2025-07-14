@@ -1,0 +1,48 @@
+{
+  "id": "6875630e254531fd45646153",
+  "title": "Understanding GPS",
+  "description": "A comprehensive course on Global Positioning System (GPS), its technology, applications, and workings.",
+  "learningObjectives": [
+    "Understand the fundamentals of GPS",
+    "Learn about GPS satellites and signals",
+    "Understand positioning techniques",
+    "Learn GPS error sources and solutions",
+    "Apply GPS in practical scenarios"
+  ],
+  "finalProjectDetails": {
+    "overview": "Students will design a navigation solution using GPS technology for a specific industry they choose.",
+    "planningResources": [
+      "GPS textbook",
+      "Course slides",
+      "Online GPS resources"
+    ],
+    "submissionInstructions": "The final project should be submitted in a written report format, which includes a detailed explanation of the design, a supporting diagram of the system, and how GPS concepts learnt in the course are applied. It must be submitted via the course submission portal before the final deadline.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "_id": "6875412897c1eb14a4924dc6",
+    "name": "Hanna Akhramchuk",
+    "image": "https://avatars.githubusercontent.com/u/75540219?v=4",
+    "githubUsername": "akhhanna20"
+  },
+  "contributors": [
+    {
+      "_id": "6864667b4b3a739e573c0e1d",
+      "name": "Doina Fitchevici",
+      "image": "https://avatars.githubusercontent.com/u/133082403?v=4",
+      "githubUsername": "DoinaFitchevici"
+    },
+    {
+      "_id": "6800a73454438765dcfd5e07",
+      "name": "Tammam Alwafai",
+      "image": "https://avatars.githubusercontent.com/u/47179662?v=4",
+      "githubUsername": "1992tw"
+    }
+  ],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "createdAt": "2025-07-14T20:05:34.950Z",
+  "updatedAt": "2025-07-14T20:05:34.950Z"
+}
